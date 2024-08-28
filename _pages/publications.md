@@ -10,19 +10,13 @@ redirect_from:
 Peer-Reviewed Journal Publications
 ======
 
-**2024---**
-
-<p>Portela, C.F., Martins, V.S., Novo, E.M.L.M., **Paulino, R.S.**, Barbosa, C.C.F. Recent advances in geostationary satellites for inland and coastal aquatic systems: scientific research and applications. International Journal of Remote Sensing 45, 1574-1607, 2024. [Access](https://doi.org/10.1080/01431161.2024.2314007)</p>
-
-**2023---**
+Portela, C.F., Martins, V.S., Novo, E.M.L.M., **Paulino, R.S.**, Barbosa, C.C.F. Recent advances in geostationary satellites for inland and coastal aquatic systems: scientific research and applications. International Journal of Remote Sensing 45, 1574-1607, 2024. [Access](https://doi.org/10.1080/01431161.2024.2314007)
 
 Begliomini, F.N., Barbosa, C.C.F., Martins, V.S., Novo, E.M.L.M., **Paulino, R.S.**, Maciel, D.A., Lima, T.M.A., O’Shea, R.E., Pahlevan, N., Lamparelli, M.C., 2023. Machine learning for cyanobacteria mapping on tropical urban reservoirs using PRISMA hyperspectral data. ISPRS Journal of Photogrammetry and Remote Sensing 204, 378–396. [Access](https://doi.org/10.1016/j.isprsjprs.2023.09.01)
 
 **Paulino, R.S.**, Martins, V.S., Novo, E.M.L.M., Maciel, D.A., Correia-Lima, D.L., Barbosa, C.C.F., Bonnet, M.P., Uhde, A., 2023. A framework based on spectral similarity to estimate hydrological connectivity in Juruá River floodplain lakes using 3-m PlanetScope data. J Hydrol 625, 130156. [Access](https://doi.org/10.1016/j.jhydrol.2023.130156)
 
 Maciel, D.A., Pahlevan, N., Barbosa, C.C.F., de Novo, E.M.L.d.M., **Paulino, R.S.**, Martins, V.S., Vermote, E. and Crawford, C.J., 2023. Validity of the Landsat surface reflectance archive for aquatic science: Implications for cloud-based analysis. Limnol. Oceanogr. Lett 8, 850- 858. [Access](https://doi.org/10.1002/lol2.10344)
-
-**2022---**
 
 **Paulino, R.S.**, Martins, V.S., Novo, E.M.L.M., Barbosa, C.C.F., de Carvalho, L.A.S., Begliomini, F.N. (2022). Assessment of Adjacency Correction over Inland Waters Using Sentinel-2 MSI Images. Remote Sensing, 14, 1829. [Access](https://doi.org/10.3390/rs14081829)
 

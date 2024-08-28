@@ -26,7 +26,7 @@ Published Book Chapters
 
 **Paulino, R.S.**, Sousa, P.C., Pinheiro, Y.V., Barbosa, B.C.A., Rodrigues, K.A., Sampaio, G.M.M.S. Use of Aspergillus niger AN 400 in the synthetic effluent treatment contaminated with Aldrin. In: Sampaio, G.M.M.S., Rodrigues, K.A., Araújo, R.S. (Org.). Environmental Technologies and Sustainability. 1 ed. Recife: Imprima, Brazil, p. 179-189, 2016. (Available printed)
 
-Published Book Chapters
+Conference Proceedings
 ======
 
 **Paulino, R.S.**, Martins, V.S. Atmospheric correction of Sentinel-3A/B images for mapping water quality parameters in Mississippi coastal waters. In: Spring Graduate Research Symposium 2024, Proceedings …, Starkville, 2024.

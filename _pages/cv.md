@@ -1,64 +1,53 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D. in Biosystem Engineering (2023-present),
+  Mississippi State University (USA), Superviser: Vitor S. Martins
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.S. in Remote Sensing (2020-2022),
+  National Institute for Space Research (Brazil), Superviser: Evlyn Novo and Vitor S. Martins
 
-Publications
+* B.S. Environmental and Sanitary Engineering (2014 - 2019),
+  Federal Institute of Education, Science and Technology of Ceará (Brazil)
+
+Professional Employment
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2023 - present: Graduate Researcher, Geospatial Computing for Environmental Research Lab, MSU. 
+
+* 2022 - 2023: Research Assistant, National Institute for Space Research, Brazil.
+
+* 2022:	Research Assistant, Institute of Research for Development (IRD), Brazil.
+
+Research Interesets
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Water Remote Sensing and Optics; Satellite Validation; Image Processing; Atmospheric and Adjacency Corrections; Synthetic images.
+
+Projects
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 2023 - present: Graduate Researcher,  Satellite-based virtual buoy observation network as water quality support tool for oyster sustainability in Mississippi Sound.
+
+* 2022: Research Assistant, Sustaining Amazon floodplain biodiversity and fisheries under climate change: French National Research Institute for Sustainable Development.
+
+* 2021 - present: Collaborator, Development of a modular system for continuous monitoring of inland water quality by satellite - MAPAQUALI.   
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2023, Graduate Recruitment Assistance Fellowship Award, Graduate College, Mississippi State University.
+
+Professional Skills
+======
+* GIS tools: Google Earth Engine, ArcGIS, and QGIS.
+* Programming: Python.
+* Professional skills: SeaDAS, SNAP, and ACOLITE.
+
+Fieldwork Skills
+======
+* Instruments: TriOS RAMSES radiometers, ACS, HydroScat, YSI Probe.    

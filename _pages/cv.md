@@ -10,19 +10,19 @@ redirect_from:
 Education
 ======
 * Ph.D. in Biosystem Engineering (2023-present),
-  Mississippi State University (USA), Superviser: Vitor S. Martins
+  Mississippi State University (USA), Superviser: Vitor S. Martins.
   
 * M.S. in Remote Sensing (2020-2022),
-  National Institute for Space Research (Brazil), Superviser: Evlyn Novo and Vitor S. Martins
+  National Institute for Space Research (Brazil), Superviser: Evlyn Novo and Vitor S. Martins.
 
 * B.S. Environmental and Sanitary Engineering (2014 - 2019),
-  Federal Institute of Education, Science and Technology of Ceará (Brazil)
+  Federal Institute of Education, Science and Technology of Ceará (Brazil).
 
 Professional Employment
 ======
-* 2023 - present: Graduate Researcher, Geospatial Computing for Environmental Research Lab, MSU. 
+* 2023 - present: Graduate Researcher, Geospatial Computing for Environmental Research Lab, MSU, USA. 
 
-* 2022 - 2023: Research Assistant, National Institute for Space Research, Brazil.
+* 2022 - 2023: Research Assistant, National Institute for Space Research (INPE), Brazil.
 
 * 2022:	Research Assistant, Institute of Research for Development (IRD), Brazil.
 

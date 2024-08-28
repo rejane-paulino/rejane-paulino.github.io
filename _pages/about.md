@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,4 +18,6 @@ Thank you for visiting!
 
 News
 ======
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;A study focused on correcting adjacency effects across different optical types of inland waters. The paper is officially online in <a href="https://twitter.com/NOAA?ref_src=twsrc%5Etfw">@RemoteSens_MDPI</a>. <a href="https://doi.org/10.3390/rs14081829">https://doi.org/10.3390/rs14081829</a> <a href="https://x.com/paulino_rejane/status/1828824086157639794">pic.twitter.com/1828824086157639794</a></p>&mdash; Rejane Paulino (@paulino_rejane) <a href="https://x.com/paulino_rejane/status/1828824086157639794">August 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Rejane Paulino (@paulino_rejane) <a href="https://x.com/paulino_rejane">https://x.com/paulino_rejane</a></p>&mdash; Rejane Paulino (@paulino_rejane) <a href="https://x.com/paulino_rejane"></a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

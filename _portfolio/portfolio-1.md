@@ -1,6 +1,6 @@
 ---
 title: "Fieldwork"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Photos/Amazon_1.png'>"
+excerpt: "Records fieldwork across the globe!<br/><img src='/images/Photos/Amazon_1.png' width='300' height='auto'>"
 collection: gallery
 ---
 

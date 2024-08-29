@@ -1,6 +1,6 @@
 ---
 title: "Fieldwork"
-excerpt: "Records fieldwork across the globe!<br/><img src='/images/Photos/Amazon_1.png' width='300' height='auto'>"
+excerpt: "Records fieldwork across the globe!<br/><img src='/images/500x300.png' width='300' height='auto'>"
 collection: gallery
 ---
 

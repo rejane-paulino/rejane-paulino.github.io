@@ -6,12 +6,11 @@ description: Edit the `_data/repositories.yml` and change the `github_users` and
 nav: true
 nav_order: 4
 ---
-
 ## GitHub Repositories
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories">
 
-- **Repository 1**: [Link to Repository 1](https://github.com/rejane-paulino/awp-inlandwater)  
-  Description of Repository 1.
+<div class="github-card" data-user="rejane-paulino" data-repo="awp-inlandwater"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 
 </div>

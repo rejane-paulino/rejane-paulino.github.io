@@ -8,6 +8,6 @@ nav_order: 4
 ---
 ## GitHub Repositories
 
-<div class="github-card" data-github="awp-inlandwater" data-width="400" data-height="" data-theme="default"></div>
+<div class="github-card" data-github="rejane-paulino/awp-inlandwater" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 

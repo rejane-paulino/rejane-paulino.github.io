@@ -10,10 +10,10 @@ redirect_from:
 Education
 ======
 * Ph.D. in Biosystem Engineering (2023-present),
-  Mississippi State University (USA), Superviser: Vitor S. Martins.
+  Mississippi State University (USA), Superviser: Dr. Vitor S. Martins.
   
 * M.S. in Remote Sensing (2020-2022),
-  National Institute for Space Research (Brazil), Superviser: Evlyn Novo and Vitor S. Martins.
+  National Institute for Space Research (Brazil), Superviser: Dr. Evlyn Novo and Dr. Vitor S. Martins.
 
 * B.S. Environmental and Sanitary Engineering (2014 - 2019),
   Federal Institute of Education, Science and Technology of Ceará (Brazil).

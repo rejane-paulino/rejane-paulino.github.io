@@ -9,29 +9,31 @@ redirect_from:
 
 ## GitHub Repositories
 
-<script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
-<div id="repo-readme"></div>
+<div id="repo-container"></div>
 
 <script>
-  const username = "rejane-paulino";
-  const repository = "repository";
+  const repositories = [
+    { username: "rejane-paulino", repo: "aerocscan" },
+    { username: "rejane-paulino", repo: "s23aqua" },
+    { username: "rejane-paulino", repo: "lconnect" }
+  ];
 
-  // Initialize Showdown converter
-  const converter = new showdown.Converter();
+  const container = document.getElementById("repo-container");
 
-  // Fetch README from GitHub API
-  fetch(`https://api.github.com/repos/${rejane-paulino}/${aerocscan}/readme`, {
-    headers: { Accept: "application/vnd.github.v3.raw" }
-  })
-    .then(response => response.text())
-    .then(data => {
-      // Convert Markdown to HTML
-      const htmlContent = converter.makeHtml(data);
-      document.getElementById("repo-readme").innerHTML = htmlContent;
+  repositories.forEach(({ username, repo }) => {
+    fetch(`https://api.github.com/repos/${username}/${repo}/readme`, {
+      headers: { Accept: "application/vnd.github.v3.raw" }
     })
-    .catch(err => console.error("Error fetching README:", err));
+      .then(response => response.text())
+      .then(data => {
+        const snippet = data.split('\n').slice(0, 10).join('\n'); // First 10 lines
+        const section = document.createElement("div");
+        section.innerHTML = `<h2>${repo}</h2><pre>${snippet}</pre>`;
+        container.appendChild(section);
+      })
+      .catch(err => console.error(`Error fetching README for ${repo}:`, err));
+  });
 </script>
-
 
 
 

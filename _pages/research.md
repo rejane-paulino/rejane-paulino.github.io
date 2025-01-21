@@ -40,6 +40,8 @@ Projects
 
 Awards
 ======
+* 2024, 2nd Place, Student Poster Presentation at 2024 Bays and Bayous Symposium.
+* 2024, 2nd Place, Student Poster Presentation at 2024 Mississippi Water Resources Conference.
 * 2023, Graduate Recruitment Assistance Fellowship Award, Graduate College, Mississippi State University.
 
 Professional Skills

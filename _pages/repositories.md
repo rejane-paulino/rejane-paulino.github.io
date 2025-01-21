@@ -14,9 +14,84 @@ redirect_from:
 The S2/3Aqua is a proto-algorithm that integrates spatial and spectral domains from the Sentinel-2 MSI and Sentinel-3 OLCI images using multivariate regressor models. The S2/3Aqua combines these two sensors to create a new set of synthetic multi-band products that preserve each sensor’s unique characteristics. Here, eight synthetic eight spectral bands (from visible to red-edge domains) at 10-m spatial resolution are generated, making the S2/3Aqua product suitable for addressing the challenges relating to inland waters, such as mapping of potentially harmful algal blooms and enhanced estimative of chlorophyll-a and suspended matter. This proto-algorithm contains three main steps: (1) creation of spatially degraded 10-m Sentinel-2 MSI images using a Point Spread Function; (2) selection of spectral samples across Sentinel-2/3 images using cluster-based sampling approach; and (3) generation of 10-m eight synthetic spectral bands from multivariate regressor models.
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Repositories</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: #333;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #0070f3;
+        }
+        h2 {
+            font-size: 1.5rem;
+            color: #0056b3;
+            margin-top: 40px;
+        }
+        a {
+            text-decoration: none;
+            color: #0070f3;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .repo {
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .repo img {
+            max-width: 250px;
+            height: auto;
+        }
+        .repo-content {
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>GitHub Repositories</h1>
 
+    <div class="repo">
+        <div class="repo-content">
+            <h2>
+                <a href="https://github.com/rejane-paulino/s23aqua" target="_blank">
+                    S2/3Aqua (Sentinel-2/3 Synthetic Aquatic Reflectance Bands)
+                </a>
+            </h2>
+            <p>
+                The S2/3Aqua is a proto-algorithm that integrates spatial and spectral domains from the 
+                Sentinel-2 MSI and Sentinel-3 OLCI images using multivariate regressor models. The S2/3Aqua 
+                combines these two sensors to create a new set of synthetic multi-band products that preserve 
+                each sensor’s unique characteristics. Here, eight synthetic eight spectral bands (from visible 
+                to red-edge domains) at 10-m spatial resolution are generated, making the S2/3Aqua product 
+                suitable for addressing the challenges relating to inland waters, such as mapping of potentially 
+                harmful algal blooms and enhanced estimative of chlorophyll-a and suspended matter.
+            </p>
+            <p>
+                This proto-algorithm contains three main steps:
+                <ol>
+                    <li>Creation of spatially degraded 10-m Sentinel-2 MSI images using a Point Spread Function.</li>
+                    <li>Selection of spectral samples across Sentinel-2/3 images using cluster-based sampling approach.</li>
+                    <li>Generation of 10-m eight synthetic spectral bands from multivariate regressor models.</li>
+                </ol>
+            </p>
+        </div>
+        <img src="/images/s23aqua.svg" alt="S2/3Aqua Logo" />
+    </div>
 
+</body>
+</html>
 
 
 

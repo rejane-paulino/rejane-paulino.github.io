@@ -9,34 +9,9 @@ redirect_from:
 
 ## GitHub Repositories
 
-<div id="repo-container"></div>
+## [S2/3Aqua (Sentinel-2/3 Synthetic Aquatic Reflectance Bands)](https://github.com/rejane-paulino/s23aqua)<img src="/images/s23aqua.svg" width="250" align="right" />
 
-<script>
-  const repositories = [
-    { username: "rejane-paulino", repo: "aerocscan" },
-    { username: "rejane-paulino", repo: "s23aqua" },
-    { username: "rejane-paulino", repo: "lconnect" }
-  ];
-
-  const container = document.getElementById("repo-container");
-
-  repositories.forEach(({ username, repo }) => {
-    fetch(`https://api.github.com/repos/${username}/${repo}/readme`, {
-      headers: { Accept: "application/vnd.github.v3.raw" }
-    })
-      .then(response => response.text())
-      .then(data => {
-        const snippet = data.split('\n').slice(0, 10).join('\n'); // First 10 lines
-        const section = document.createElement("div");
-        section.innerHTML = `<h2>${repo}</h2><pre>${snippet}</pre>`;
-        container.appendChild(section);
-      })
-      .catch(err => console.error(`Error fetching README for ${repo}:`, err));
-  });
-</script>
-
-
-
+The S2/3Aqua is a proto-algorithm that integrates spatial and spectral domains from the Sentinel-2 MSI and Sentinel-3 OLCI images using multivariate regressor models. The S2/3Aqua combines these two sensors to create a new set of synthetic multi-band products that preserve each sensor’s unique characteristics. Here, eight synthetic eight spectral bands (from visible to red-edge domains) at 10-m spatial resolution are generated, making the S2/3Aqua product suitable for addressing the challenges relating to inland waters, such as mapping of potentially harmful algal blooms and enhanced estimative of chlorophyll-a and suspended matter. This proto-algorithm contains three main steps: (1) creation of spatially degraded 10-m Sentinel-2 MSI images using a Point Spread Function; (2) selection of spectral samples across Sentinel-2/3 images using cluster-based sampling approach; and (3) generation of 10-m eight synthetic spectral bands from multivariate regressor models.
 
 
 

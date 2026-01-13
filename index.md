@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: ""
 author_profile: true
 ---
@@ -66,7 +66,7 @@ I'm **Rejane Paulino**, a PhD candidate in Biosystems Engineering at Mississippi
 <script>
   new Swiper(".mySwiper", {
     loop: true,
-    spaceBetween: 30,
+    spaceBetween: 20,
     centeredSlides: true,
     autoplay: {
       delay: 3500,

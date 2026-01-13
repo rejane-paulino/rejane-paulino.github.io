@@ -2,13 +2,16 @@
 
 layout: single
 
-title: "Research"
+title: ""
 
 permalink: /about/
 
 author_profile: true
 
 ---
+
+What is my research?
+=============================
 
 Aquatic systems are diverse and essential for sustaining life on Earth.
 Remote sensing provides a unique perspective for observing these ecosystems,
@@ -39,7 +42,7 @@ signatures across the electromagnetic spectrum.
 The relationship between water composition and its spectral response forms the
 foundation of aquatic optics and is commonly described using two complementary
 approaches: **forward models**, which simulate radiance from known optical
-properties, and **inverse models**, which infer water constituents from observed
+properties, and **inverse models**, which infer water composition from observed
 radiance signals.
 
 <!-- ===================== PHYSICS / OPTICS FIGURE ===================== -->
@@ -49,54 +52,61 @@ radiance signals.
 
 ---
 
-Satellite sensors continuously record these radiometric signals from space,
-providing visually compelling imagery that encodes information about water color,
+Satellite sensors continuously record radiometric signals from space,
+providing insightful imagery that captures information about water color,
 optical complexity, and ecosystem diversity. When properly processed and
-validated, these observations allow us to quantitatively link spectral patterns
-to underlying biogeochemical processes.
+validated, these observations allow for quantitative interpretation of
+spectral patterns in terms of biogeochemical processes.
+
 
 <!-- ===================== SATELLITE IMAGES (SIDE BY SIDE) ===================== -->
 
-<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap; margin:2rem 0;">
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin:2rem 0;">
 
-  <div style="flex:1; min-width:260px;">
+  <div style="flex:1; min-width:200px;">
     <p>
-    High-resolution satellite imagery enables the visualization of diverse optical
-    regimes, ranging from phytoplankton-dominated waters to sediment- and
-    CDOM-rich systems. These examples illustrate how spatial patterns in water
-    color reflect variations in aquatic composition and physical processes.
+      <em>
+      Satellite imagery enables the visualization of a wide range of bio-optical
+      states in aquatic systems, from phytoplankton-dominated waters to sediment-
+      and CDOM-rich environments. These examples highlight the power of satellite
+      observations to characterize spatial variability in water composition.
+      </em>
     </p>
   </div>
 
-  <div style="flex:1; min-width:260px;">
+  <div style="flex:1; min-width:200px;">
     <img src="{{ '/assets/images/satellite_images.png' | relative_url }}"
-         style="width:100%; max-height:380px; object-fit:contain;">
+         style="width:100%; max-height:420px; object-fit:contain;">
   </div>
 
 </div>
 
+
 ---
 
-My research aims to advance the applicability and reliability of remote sensing
-for aquatic systems through the integration of theory, observations, and
-data-driven methods. Specifically, my work focuses on:
+My research focuses on advancing the applicability and reliability of remote
+sensing for aquatic systems by integrating theory, observations, and data-driven
+methods. Specifically, my work includes:
 
-1. **Image processing and data fusion**, integrating multiple satellite missions
-   to enhance both spatial and spectral information for inland and coastal waters.
+1. **Image processing and data fusion** across multiple satellite missions to
+   enhance spatial and spectral information for aquatic applications.
 
-2. **Radiometric validation**, assessing the spectral consistency and quality of
-   ocean-color satellite products using in situ measurements at local and global
-   scales.
+2. **Radiometric validation** of ocean-color satellite products using in situ
+   measurements at local and global scales.
 
-3. **Atmospheric correction**, developing and evaluating frameworks to minimize
-   atmospheric, sun-glint, sky-glint, and adjacency effects in aquatic imagery.
+3. **Atmospheric correction** frameworks to reduce atmospheric, sun-glint,
+   sky-glint, and adjacency effects in aquatic imagery.
 
-4. **Ocean color applications**, proposing novel methodologies to extract
-   biogeochemical information from aquatic systems and to analyze global and
-   regional trends.
+4. **Ocean color applications** that derive biogeochemical and color information
+   from aquatic systems to address key scientific questions.
 
 <!-- ===================== RESEARCH ABSTRACT FIGURE ===================== -->
 
 <img src="{{ '/assets/images/research_abstract_1.png' | relative_url }}"
-     style="width:100%; max-height:480px; object-fit:contain; margin:2rem 0;">
+     style="width:120%; max-height:480px; object-fit:contain; margin:2rem 0;">
 
+---
+
+*All figures and visual content on this page are original and were produced by the author.
+Any reproduction or reuse is permitted for academic and educational purposes,
+with appropriate citation and attribution.*

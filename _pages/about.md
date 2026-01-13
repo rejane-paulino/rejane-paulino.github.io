@@ -1,9 +1,14 @@
----
-layout: single
-title: "About"
-permalink: /research/
-author_profile: true
----
+[//]: # (---)
+
+[//]: # (layout: single)
+
+[//]: # (title: "About")
+
+[//]: # (permalink: /research/)
+
+[//]: # (author_profile: true)
+
+[//]: # (---)
 
 Aquatic systems are diverse and essential for sustaining life on Earth.
 Remote sensing provides a unique perspective for observing these ecosystems,

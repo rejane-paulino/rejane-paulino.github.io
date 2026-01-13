@@ -59,27 +59,26 @@ validated, these observations allow for quantitative interpretation of
 spectral patterns in terms of biogeochemical processes.
 
 
-<!-- ===================== SATELLITE IMAGES (SIDE BY SIDE) ===================== -->
+<!-- ===================== SATELLITE IMAGES ===================== -->
 
-<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin:2rem 0;">
+<div style="
+  margin:2rem 0;
+  padding:1rem 1.25rem;
+  border-left:4px solid #2a7ae2;
+  background:#f7f9fc;
+  font-style:italic;
+">
 
-  <div style="flex:1; min-width:200px;">
-    <p>
-      <em>
-      Satellite imagery enables the visualization of a wide range of bio-optical
-      states in aquatic systems, from phytoplankton-dominated waters to sediment-
-      and CDOM-rich environments. These examples highlight the power of satellite
-      observations to characterize spatial variability in water composition.
-      </em>
-    </p>
-  </div>
-
-  <div style="flex:1; min-width:200px;">
-    <img src="{{ '/assets/images/satellite_images.png' | relative_url }}"
-         style="width:100%; max-height:420px; object-fit:contain;">
-  </div>
+  Satellite imagery enables the visualization of a wide range of bio-optical
+  states in aquatic systems, from phytoplankton-dominated waters to sediment-
+  and CDOM-rich environments. These examples highlight the power of satellite
+  observations to characterize spatial variability in water composition.
 
 </div>
+
+<img src="{{ '/assets/images/satellite_images.png' | relative_url }}"
+     style="width:100%; max-height:420px; object-fit:contain; display:block; margin:auto;">
+
 
 
 ---

@@ -29,15 +29,10 @@
 [//]: # (Thank you for visiting!)
 
 
-
 ---
-permalink: /
+layout: home
 title: ""
 author_profile: true
-layout: single
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 Welcome to My Personal Website
@@ -45,88 +40,68 @@ Welcome to My Personal Website
 
 I'm **Rejane Paulino**, a PhD candidate in Biosystems Engineering at Mississippi State University, specializing in aquatic remote sensing.
 
-<!-- ===================== IMAGE SLIDER ===================== -->
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
 
 <div class="swiper mySwiper">
-
   <div class="swiper-wrapper">
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_1.jpg" alt="">
+      <img src="{{ '/assets/images/slide_1.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_2.png" alt="">
+      <img src="{{ '/assets/images/slide_2.png' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_3.jpg" alt="">
+      <img src="{{ '/assets/images/slide_3.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_4.jpg" alt="">
+      <img src="{{ '/assets/images/slide_4.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_5.jpg" alt="">
+      <img src="{{ '/assets/images/slide_5.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_6.jpg" alt="">
+      <img src="{{ '/assets/images/slide_6.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_7.jpg" alt="">
+      <img src="{{ '/assets/images/slide_7.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_8.jpg" alt="">
+      <img src="{{ '/assets/images/slide_8.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_9.jpg" alt="">
+      <img src="{{ '/assets/images/slide_9.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_10.jpg" alt="">
+      <img src="{{ '/assets/images/slide_10.jpg' | relative_url }}" alt="">
     </div>
 
     <div class="swiper-slide">
-      <img src="/assets/images/slide_11.png" alt="">
+      <img src="{{ '/assets/images/slide_11.png' | relative_url }}" alt="">
     </div>
 
   </div>
-
-  <!-- Controls (remove if you want even cleaner look) -->
-  <div class="swiper-pagination"></div>
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
-
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 <script>
-  const swiper = new Swiper(".mySwiper", {
+  new Swiper(".mySwiper", {
     loop: true,
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
       delay: 3500,
       disableOnInteraction: false,
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
+    }
   });
 </script>
-
-<!-- ===================== END SLIDER ===================== -->
-

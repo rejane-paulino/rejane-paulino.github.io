@@ -4,14 +4,20 @@ title: ""
 author_profile: true
 ---
 
-Welcome to My Personal Website
+Welcome to My Personal Website!
 =============================
 
-I'm **Rejane Paulino**, a PhD candidate in Biosystems Engineering at Mississippi State University, specializing in aquatic remote sensing.
+I'm **Rejane (Jane) Paulino**, a PhD candidate in Biosystems Engineering at Mississippi State University and a passionate young scientist specializing in remote sensing.
+My research focuses on aquatic systems, with particular interest in water optics, image processing, atmospheric and adjacency corrections, and data harmonization. 
+
+On this site, you'll find detailed information about my research projects, publications, and professional background. I invite you to explore my work, discover my latest findings, and reach out if you have any questions or are interested in collaboration opportunities. 
+
+Thank you for visiting!
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
 
-<div class="swiper mySwiper" style="width:50%; margin:1.5rem auto;">
+<div class="swiper mySwiper" style="width:75%; margin:1.5rem auto;">
 
   <div class="swiper-wrapper">
 

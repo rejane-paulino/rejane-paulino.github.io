@@ -12,7 +12,7 @@ Peer-Reviewed Journal Publications
 
 **Paulino, R.S.**, Martins, V.S., Caballero, C.B., Lima, T., Liu, B., Ashapure, A., Werdell, J. (2026). PACE (Plankton, Aerosol, Cloud, ocean Ecosystem): Preliminary analysis of the consistency of remote sensing reflectance product over aquatic systems. ISPRS Journal of Photogrammetry and Remote Sensing 232, 196-209. [Link](https://doi.org/10.1016/j.isprsjprs.2025.12.003)
 
-**Paulino, R.S.**, Martins, V.S., Caballero, C.B., Lima, T., Maciel, D., Santos J.C.P., Liu, B. (2025). Performance of glint correction algorithms for Sentinel-3 OLCI data. Frontiers in Remote Sensing 6, 1690337. [Link] (https://doi.org/10.3389/frsen.2025.1690337)
+**Paulino, R.S.**, Martins, V.S., Caballero, C.B., Lima, T., Maciel, D., Santos J.C.P., Liu, B. (2025). Performance of glint correction algorithms for Sentinel-3 OLCI data. Frontiers in Remote Sensing 6, 1690337. [Link](https://doi.org/10.3389/frsen.2025.1690337)
 
 **Paulino, R.S.**, Martins, V.S., Novo, E.M.L.M., Barbosa, C.C.F., Maciel, D.M., Wanderley, R.L.N., Portela, C.I., Caballero, C.B., Lima, T. (2025). Generation of robust 10-m Sentinel-2/3 Synthetic Aquatic Reflectance Bands over Inland Waters. Remote Sensing of Environmental 318, 114593. [Link](https://doi.org/10.1016/j.rse.2024.114593)
 

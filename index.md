@@ -128,7 +128,7 @@ Thank you for visiting!!!
     spaceBetween: 20,
     centeredSlides: true,
     autoplay: {
-      delay: 2000,
+      delay: 3000,
       disableOnInteraction: false,
     }
   });

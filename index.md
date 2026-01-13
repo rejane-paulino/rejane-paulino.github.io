@@ -23,98 +23,98 @@ Thank you for visiting!!!
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_01.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_02.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_03.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_04.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_05.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_06.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_07.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_08.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_09.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_010.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_011.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_012.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_013.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_014.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_015.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_016.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_017.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_018.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
       <img src="{{ '/assets/images/photo_019.png' | relative_url }}"
-           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+           style="width:130%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
   </div>

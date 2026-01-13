@@ -12,7 +12,7 @@ My research focuses on aquatic systems, with particular interest in water optics
 
 On this site, you'll find detailed information about my research projects, publications, and professional background. I invite you to explore my work, discover my latest findings, and reach out if you have any questions or are interested in collaboration opportunities. 
 
-Thank you for visiting!
+Thank you for visiting!!!
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
@@ -22,57 +22,98 @@ Thank you for visiting!
   <div class="swiper-wrapper">
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_1.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_01.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_2.png' | relative_url }}"
+      <img src="{{ '/assets/images/photo_02.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_3.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_03.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_4.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_04.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_5.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_05.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_6.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_06.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_7.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_07.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_8.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_08.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_9.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_09.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_10.jpg' | relative_url }}"
+      <img src="{{ '/assets/images/photo_010.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/slide_11.png' | relative_url }}"
+      <img src="{{ '/assets/images/photo_011.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_012.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_013.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_014.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_015.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_016.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_017.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_018.png' | relative_url }}"
+           style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
+    </div>
+
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/photo_019.png' | relative_url }}"
            style="width:100%; max-height:480px; object-fit:contain; display:block; margin:auto;">
     </div>
 

@@ -10,7 +10,7 @@ author_profile: true
 
 ---
 
-What is my research?
+What is the focus of my research?
 =============================
 
 Aquatic systems are diverse and essential for sustaining life on Earth.
@@ -33,9 +33,9 @@ variability across a wide range of temporal and spatial scales.
 
 ---
 
-From small inland lakes to the open ocean, aquatic systems contain a wide
-range of optically active constituents, including phytoplankton, organic matter,
-and inorganic particles. These components interact with incoming sunlight by
+From small inland lakes to the open ocean, aquatic systems contain various 
+optically active constituents, including phytoplankton and organic and inorganic particles. 
+These components interact with incoming sunlight by
 absorbing and scattering radiation in distinct ways, imprinting unique spectral
 signatures across the electromagnetic spectrum.
 
@@ -69,7 +69,7 @@ spectral patterns in terms of biogeochemical processes.
   font-style:italic;
 ">
 
-  Satellite imagery enables the visualization of a wide range of bio-optical
+  Satellite imagery enables the visualization of bio-optical
   states in aquatic systems, from phytoplankton-dominated waters to sediment-
   and CDOM-rich environments. These examples highlight the power of satellite
   observations to track water color.

@@ -125,11 +125,21 @@ Thank you for visiting!!!
 <script>
   new Swiper(".mySwiper", {
     loop: true,
-    effect: "fade",
-    fadeEffect: { crossFade: true },
-    speed: 1200,
+    effect: "coverflow",
+    effect: "coverflow",
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: "auto",
+    speed: 900,
+    coverflowEffect: {
+      rotate: 20,
+      stretch: 0,
+      depth: 120,
+      modifier: 1,
+      slideShadows: false,
+    },
     autoplay: {
-      delay: 3500,
+      delay: 3000,
       disableOnInteraction: false,
     },
   });

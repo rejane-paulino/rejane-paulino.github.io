@@ -133,9 +133,3 @@ Thank you for visiting!!!
     }
   });
 </script>
-
----
-
-*All figures and visual content on this page are original and were produced by the author.
-Any reproduction or reuse is permitted for academic and educational purposes,
-with appropriate citation and attribution.*

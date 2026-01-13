@@ -125,11 +125,12 @@ Thank you for visiting!!!
 <script>
   new Swiper(".mySwiper", {
     loop: true,
-    spaceBetween: 20,
-    centeredSlides: true,
+    effect: "fade",
+    fadeEffect: { crossFade: true },
+    speed: 1200,
     autoplay: {
-      delay: 3000,
+      delay: 3500,
       disableOnInteraction: false,
-    }
+    },
   });
 </script>

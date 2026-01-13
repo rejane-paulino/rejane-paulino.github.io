@@ -33,7 +33,7 @@ variability across a wide range of temporal and spatial scales.
 
 ---
 
-From small inland lakes to the open ocean, aquatic environments contain a wide
+From small inland lakes to the open ocean, aquatic systems contain a wide
 range of optically active constituents, including phytoplankton, organic matter,
 and inorganic particles. These components interact with incoming sunlight by
 absorbing and scattering radiation in distinct ways, imprinting unique spectral
@@ -72,7 +72,7 @@ spectral patterns in terms of biogeochemical processes.
   Satellite imagery enables the visualization of a wide range of bio-optical
   states in aquatic systems, from phytoplankton-dominated waters to sediment-
   and CDOM-rich environments. These examples highlight the power of satellite
-  observations to characterize spatial variability in water composition.
+  observations to track water color.
 
 </div>
 
